@@ -1,0 +1,21 @@
+{
+  "name": "temp-git-upload",
+  "version": "1.0.0",
+  "description": "Learn git command",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Manot L.",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
